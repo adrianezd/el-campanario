@@ -1,0 +1,7 @@
+/* El campanario: lo propio del juego (lo común está en style.css) */
+.fold .sala-votes { margin-top: 10px; }
+.fold .results-label { margin: 12px 0 6px; text-align: left; }
+.seat-list { margin: 8px 0 0; padding-left: 1.6em; columns: 2; column-gap: 18px; }
+.seat-list li { padding: 2px 0; break-inside: avoid; }
+.night-result p { text-align: left; }
+#role-summary { font-weight: 600; color: var(--text); }
